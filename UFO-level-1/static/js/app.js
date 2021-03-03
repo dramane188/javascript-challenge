@@ -1,11 +1,6 @@
 // Starter Code
 var tableData = data;
 
-
-// Viewing the available data fromt he data.js
-// console.log(tableData);
-
-
 // Creating References to tbody, input and button
 var $tbody = d3.select("tbody");
 var button = d3.select("#filter-btn");
